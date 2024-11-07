@@ -87,8 +87,8 @@ performance-related tips.
 
 * How long is it going to take?
 
-  Because of probablistic nature of brute force key generation, and
-  varience of hardware it's going to run on, it's hard to make promisses
+  Because of the probablistic nature of brute force key generation, and
+  varience of hardware it's going to run on, it's hard to make promises
   about how long it's going to take, especially when most users want
   just a few keys.
 
